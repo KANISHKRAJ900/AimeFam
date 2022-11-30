@@ -9,7 +9,7 @@ const Home = () => {
     <div className="text-lg font-medium text-red-900">
       <Header />
       <About />
-      <AnimeCard id="anime" />
+      <AnimeCard />
       <RecommandedCard />
     </div>
   );
