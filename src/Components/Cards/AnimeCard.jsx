@@ -3,7 +3,10 @@ import React from "react";
 function AnimeCard() {
   return (
     <>
-      <div className="lg:px-16 sm:px-0 ">
+      <div id="anime" className="lg:px-16 sm:px-0 ">
+        <div>
+          <h2 className="text-5xl">Upcoming Anime</h2>
+        </div>
         <article class="flex bg-white  transition hover:shadow-xl  max-w-screen-md  py-8 sm:px-6 lg:px-8">
           <div class="rotate-180 p-2 [writing-mode:_vertical-lr]">
             <time

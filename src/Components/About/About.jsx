@@ -15,13 +15,14 @@ const About = () => {
             </div>
 
             <div class="lg:py-24">
-              <h2 class="text-3xl font-bold sm:text-4xl">Grow your audience</h2>
+              <h1 class="text-3xl font-bold sm:text-4xl">Anime in 2023</h1>
 
               <p class="mt-4 text-gray-600">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut
-                qui hic atque tenetur quis eius quos ea neque sunt, accusantium
-                soluta minus veniam tempora deserunt? Molestiae eius quidem quam
-                repellat.
+                Most animes will harbour serious moral philosophies from
+                real-life situations. And things like decision-making, the
+                ability to overcoming loss, and the importance of familial
+                relationships form the corner-stone of almost any anime you
+                watch.08-Aug-2018.
               </p>
 
               <a
