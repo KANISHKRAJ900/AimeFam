@@ -22,7 +22,7 @@ const About = () => {
                 real-life situations. And things like decision-making, the
                 ability to overcoming loss, and the importance of familial
                 relationships form the corner-stone of almost any anime you
-                watch.08-Aug-2018.
+                watch.
               </p>
 
               <a
