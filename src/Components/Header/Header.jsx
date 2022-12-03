@@ -35,8 +35,8 @@ const Header = () => {
                   <img className="w-5" src="/instagram.png" alt="instagram" />
                 </a>
               </div>
-              <button className="group shrink-0 items-center rounded-lg transition  lg:hidden  ">
-                Kanishk Raj
+              <button className="group shrink-0 items-center text-2xl rounded-lg transition  lg:hidden  ">
+                Anime <span className="text-sm">Season</span>
               </button>
 
               <div className="relative hidden sm:block">
