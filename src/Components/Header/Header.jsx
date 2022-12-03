@@ -7,7 +7,7 @@ const Header = () => {
         <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
           <div className="flex items-center sm:justify-between sm:gap-4">
             <button className="group shrink-0 items-center rounded-lg transition text-5xl hidden lg:block">
-              Kanishk Raj
+              Anime <span className="text-sm">Season</span>
             </button>
             <div className="flex flex-1 items-center justify-between gap-8 sm:justify-end">
               <div className="flex gap-4">

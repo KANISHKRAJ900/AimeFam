@@ -89,15 +89,18 @@ const RecommandedCard = () => {
 
                 <div className="mt-4 flex flex-wrap gap-1">
                   <span className="whitespace-nowrap rounded-full bg-purple-100 px-2.5 py-0.5 text-xs text-purple-600">
-                    Snippet
+                    Action
                   </span>
 
                   <span className="whitespace-nowrap rounded-full bg-purple-100 px-2.5 py-0.5 text-xs text-purple-600">
-                    JavaScript
+                    Supernatural
                   </span>
                   <span className="whitespace-nowrap rounded-full bg-purple-100 px-2.5 py-0.5 text-xs text-purple-600">
-                    JavaScript
+                    Power
                   </span>
+                  {/* <span className="whitespace-nowrap rounded-full bg-purple-100 px-2.5 py-0.5 text-xs text-purple-600">
+                    Psychological
+                  </span> */}
                 </div>
               </div>
             </article>
