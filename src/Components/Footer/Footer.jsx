@@ -13,7 +13,12 @@ const Footer = () => {
             </div>
 
             <p className="mt-4 text-center text-sm text-gray-500 lg:mt-0 lg:text-right cursor-pointer">
-              Copyright &copy; 2022-2023. All rights reserved.
+              <a
+                href="https://www.privacypolicygenerator.info/live.php?token=KTmj8HxpFMIdSTA7fgIyBog2nsVoOjqC"
+                target="_blank"
+              >
+                Copyright &copy; 2022-2023. All rights reserved.
+              </a>
             </p>
           </div>
         </div>
