@@ -1,10 +1,10 @@
 import React, { useEffect } from "react";
-import ReactGa from "react-ga";
+import ReactGA from "react-ga";
 
 function AnimeCard() {
   useEffect(() => {
     const pathname = window.location.pathname;
-    ReactGa.pageview(pathname);
+    ReactGA.pageview(pathname);
     console.log("id", pathname);
   }, []);
   return (

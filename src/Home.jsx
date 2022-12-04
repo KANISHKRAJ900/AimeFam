@@ -4,12 +4,12 @@ import AnimeCard from "./Components/Cards/AnimeCard";
 import RecommandedCard from "./Components/Cards/RecommandedCard";
 import Footer from "./Components/Footer/Footer";
 import Header from "./Components/Header/Header";
-import ReactGa from "react-ga";
+import ReactGA from "react-ga";
 
 const Home = () => {
   useEffect(() => {
     const pathname = window.location.pathname;
-    ReactGa.pageview(pathname);
+    ReactGA.pageview(pathname);
     console.log("id", pathname);
   }, []);
 

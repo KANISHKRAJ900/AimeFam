@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Home";
-import ReactGa from "react-ga";
+import ReactGA from "react-ga";
 
 function App() {
-  const TRACKING_ID = "G-ZB1Y218Q5D";
-  ReactGa.initialize(TRACKING_ID);
+  const TRACKING_ID = "G-JTFFVY6J7L";
+  ReactGA.initialize(TRACKING_ID);
   return (
     <>
       <BrowserRouter>
