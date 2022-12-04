@@ -1,6 +1,10 @@
-import React from "react";
+import React, { useEffect } from "react";
+import ReactGa from "react-ga";
 
 function AnimeCard() {
+  useEffect(() => {
+    ReactGa.pageview(window.location.pathname);
+  }, []);
   return (
     <>
       <div id="anime" className="lg:px-16 sm:px-0 ">
