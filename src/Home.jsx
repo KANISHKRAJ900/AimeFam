@@ -8,7 +8,9 @@ import ReactGa from "react-ga";
 
 const Home = () => {
   useEffect(() => {
-    ReactGa.pageview(window.location.pathname);
+    const pathname = window.location.pathname;
+    ReactGa.pageview(pathname);
+    console.log("id", pathname);
   }, []);
 
   return (
