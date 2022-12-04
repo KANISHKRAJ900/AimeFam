@@ -8,8 +8,9 @@ const About = () => {
           <div class="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
             <div class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
               <img
+                src="/anime.webp"
                 alt="Party"
-                src="/anime.jpg"
+                loading="lazy"
                 class="absolute inset-0 h-full w-full object-cover"
               />
             </div>
