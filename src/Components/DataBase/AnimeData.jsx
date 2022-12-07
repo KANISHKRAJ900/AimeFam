@@ -66,7 +66,7 @@ export const anime = [
   {
     title: "The Iceblade Sorcerer Shall Rule the World (TV)",
     image:
-      "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25582-4jan0jan658.16699jan618.jpg",
+      "https://static.next-episode.net/tv-shows-images/huge/the-iceblade-sorcerer-shall-rule-the-world.jpg",
     fall: "jan-05",
     desc: "The Iceblade Sorcerer is hailed as the most powerful sorcerer in the world. The one who inherited this title, Ray White, struggles to deal with his own immense power. After fighting in the Far East War, his last accomplishment, he vanished from the battlefield along with a deeply scarred psyche. Three years have passed since then, and Ray has enrolled at the Arnold Academy of Magic, a school attended by elite sorcerers from around the world. Ray is the first \"Ordinary\" to attend this academy since it was founded, so he's greeted by looks of scorn and contempt from its noble-born students. And now, he and the priceless friends he has found there are about to become entangled in multiple schemes. So begins the story of the most powerful sorcerer's school life filled with both friendship and hardship.",
   },
@@ -82,7 +82,7 @@ export const anime = [
   {
     title: "My Life as Inukai-san's Dog (TV)",
     image:
-      "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25434-2240513270.16673jan347.jpg",
+      "https://static.madinfinite.com/images/big/14/my-life-as-inukai-san-s-dog-gets-new-trailer-that-reveals-it-will-premiere-in-january-013181.jpg",
     fall: "jan-06",
     desc: "The protagonist suddenly wakes up one day to find out he has been turned into the pet dog of his cool and beautiful classmate Karen Inukai. While Karen is cool and expressionless at school, at home she dotes on her pet dog. (from manga)",
   },
@@ -211,8 +211,7 @@ export const anime = [
 
   {
     title: "Malevolent Spirits: Mononogatari (TV)",
-    image:
-      "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24973-2463083530.16686418jan.jpg",
+    image: "https://pbs.twimg.com/media/FS3pS4XXwAAYHe2.jpg",
     fall: "jan-09",
     desc: "When spirits cross over into the human world, they can possess old objects and gain a physical form: a tsukumogami. Tsukumogami can be gentle, violent, or somewhere in-between, so the Saenome clan peacefully helps send them back to the spirit world to avoid destruction. Kunato Hyouma is a member of the clan, but is...less than peaceful, since he holds a grudge from when a tsukumogami robbed him of something important. Afraid that Hyouma's brash anger in dealing with these spirits will lead to supernatural catastrophes, Hyouma's grandfather sends him to live in Kyoto with Nagatsuki Botan, an unusual young woman who actually lives with tsukumogami like family. (from manga)",
   },
@@ -351,7 +350,7 @@ export const anime = [
   {
     title: "Spy Classroom (TV)",
     image:
-      "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25431-29427684jan.1657927493.jpg",
+      "https://thenerdstash.com/wp-content/uploads/2022/07/spy-classroom-anime-cover-image.jpg",
     fall: "jan",
     desc: "Following a great war which engulfed numerous countries and came at a huge human cost, nations have forsworn overt warfare. Now battles are waged between spies, and the small Din Republic boasts an especially capable young man known as Klaus. When Klaus loses his mentor (and de facto father), he is given the man's failed mission and told to assemble his own elite spy team to infiltrate the neighboring country. Klaus agrees…but his idea of “elite” seems more like “incompetent” and the girls he picks for his mission don't look like they could spy on someone ten feet away from them, much less infiltrate an enemy nation. (from manga)",
   },
@@ -359,7 +358,7 @@ export const anime = [
   {
     title: "Kubo Won't Let Me Be Invisible (TV)",
     image:
-      "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25694-1950341168.16682jan622.jpg",
+      "https://animecorner.me/wp-content/uploads/2022/07/kubo-invisible-first-anime-visual.jpg",
     fall: "jan",
     desc: 'First year high schooler Junta Shiraishi is a mob character who goes unnoticed even when he\'s standing right next to you. But his classmate, "heroine-level beauty" Kubo, always notices him and is there to tease him. Anyone can become special to someone, but it might be a little too early to call these feelings "love." (from manga)',
   },

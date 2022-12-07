@@ -27,7 +27,11 @@ function AnimeCard() {
                 <div className="hidden sm:block  sm:basis-56">
                   <img
                     alt={item.title}
-                    src={item.image}
+                    src={
+                      item.image
+                        ? item.image
+                        : "https://barnfield-homes.co.uk/wp-content/uploads/2019/02/coming-soon.jpg"
+                    }
                     className="aspect-square h-full w-full object-cover"
                   />
                 </div>
