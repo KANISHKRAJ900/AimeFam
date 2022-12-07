@@ -38,7 +38,7 @@ function AnimeCard() {
                       {item.title}
                     </h3>
 
-                    <p className="mt-2 text-sm leading-relaxed text-gray-700 line-clamp-3">
+                    <p className="mt-2 text-sm align-middle leading-relaxed text-gray-700 line-clamp-3">
                       {item.desc}
                     </p>
                   </div>
