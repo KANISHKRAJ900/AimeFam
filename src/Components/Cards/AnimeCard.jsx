@@ -7,11 +7,11 @@ function AnimeCard() {
       <div id="anime" className="lg:px-16 sm:px-0 ">
         <div>
           <h2 className="text-5xl">Upcoming Anime</h2>
-          <div className=" grid  grid-flow-row md:grid-cols-2 lg:grid-cols-1   ">
+          <div className=" grid  grid-flow-row md:grid-cols-1 lg:grid-cols-1   ">
             {anime.map((item) => (
               <article
                 key={item.id}
-                className="flex bg-white  transition hover:shadow-xl  max-w-screen-md mt-5  py-8 sm:px-6 lg:px-8"
+                className="flex bg-white  transition hover:shadow-xl  max-w-screen-lg mt-5  py-8 sm:px-6 lg:px-8"
               >
                 <div className="rotate-180 p-2 [writing-mode:_vertical-lr]">
                   <time
@@ -20,13 +20,13 @@ function AnimeCard() {
                   >
                     <span>2023</span>
                     <span className="w-px flex-1 bg-gray-900/10"></span>
-                    <span>Oct 10</span>
+                    <span>{item.fall} </span>
                   </time>
                 </div>
 
-                <div className="hidden sm:block sm:basis-56">
+                <div className="hidden sm:block  sm:basis-56">
                   <img
-                    alt="Guitar"
+                    alt={item.title}
                     src={item.image}
                     className="aspect-square h-full w-full object-cover"
                   />
@@ -43,14 +43,20 @@ function AnimeCard() {
                     </p>
                   </div>
 
-                  {/* <div className="sm:flex sm:items-end sm:justify-end">
-                  <a
-                    href="#"
-                    className="block bg-yellow-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-yellow-400"
-                  >
-                    Read More
-                  </a>
-                </div> */}
+                  <div className="sm:flex  sm:items-end sm:justify-end">
+                    <span className="block   bg-yellow-300 mx-3 px-5 py-2 align-middle text-center text-xs font-bold  rounded-xl uppercase text-gray-900 transition hover:bg-yellow-400">
+                      Fantasy
+                    </span>
+                    <span className="block  bg-yellow-300 px-5 py-2 align-middle text-center text-xs font-bold  rounded-xl uppercase text-gray-900 transition hover:bg-yellow-400">
+                      Fantasy
+                    </span>
+                    <span className="block  bg-yellow-300 mx-3 px-5 py-2 align-middle text-center text-xs font-bold  rounded-xl uppercase text-gray-900 transition hover:bg-yellow-400">
+                      Action
+                    </span>
+                    <span className="block  bg-yellow-300 px-5 py-2 align-middle text-center text-xs font-bold  rounded-xl uppercase text-gray-900 transition hover:bg-yellow-400">
+                      Fantasy
+                    </span>
+                  </div>
                 </div>
               </article>
             ))}

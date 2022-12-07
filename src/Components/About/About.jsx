@@ -19,11 +19,16 @@ const About = () => {
               <h1 class="text-3xl font-bold sm:text-4xl">Anime in 2023</h1>
 
               <p class="mt-4 text-gray-600">
-                Most animes will harbour serious moral philosophies from
+                {/* Most animes will harbour serious moral philosophies from
                 real-life situations. And things like decision-making, the
                 ability to overcoming loss, and the importance of familial
                 relationships form the corner-stone of almost any anime you
-                watch.
+                watch. */}
+                How will 2023 be for you? There are a large number of new anime
+                series airing in Japan and overseas in 2022, and some
+                outstanding titles were featured every season. Of course, you
+                have many upcoming anime scheduled to be released this year as
+                well.
               </p>
 
               <a
