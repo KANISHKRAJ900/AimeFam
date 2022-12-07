@@ -39,7 +39,7 @@ const Header = () => {
                 Anime <span className="text-sm">Season</span>
               </button>
 
-              <div className="relative hidden sm:block">
+              {/* <div className="relative hidden sm:block">
                 <label className="sr-only" for="search">
                   Search
                 </label>
@@ -71,7 +71,7 @@ const Header = () => {
                     />
                   </svg>
                 </button>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
