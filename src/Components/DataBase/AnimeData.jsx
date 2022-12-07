@@ -404,3 +404,67 @@ export const anime = [
     desc: "Haruyoshi, who is the strongest onmyōji (diviner) in his world. He's betrayed by his friends and, on the verge of death, he wishes to be happy in his next life. He then attempts a secret reincarnation spell. The spell is a success and he is reincarnated, but somehow it's in another world. He is reborn into a distinguished family of wizards, but is judged to have no magical ability. He soon realizes however that the magic in this world is nothing compared to his old onmyō arts, and he declares that he doesn't need magic. He thus begins his easy life in another world with his onmyō arts and a multitude of yōkai creatures who follow him. (from manga)",
   },
 ];
+
+export const anime22 = [
+  {
+    title: "Demon Slayer",
+    image:
+      "https://jw-webmagazine.com/wp-content/uploads/2020/08/Anime-Demon-Slayer-Kimetsu-no-Yaiba-300x172.png",
+  },
+  {
+    title: "JoJo’s Bizarre Adventure",
+    image:
+      "https://jw-webmagazine.com/wp-content/uploads/2021/08/JoJos-Bizarre-Adventure-300x151.jpg",
+  },
+
+  {
+    title: " The Orbital Children",
+    image:
+      "https://occ-0-34-784.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABezvAhrTiLyeXqV7Bvi6Z6DasWuw7rpaWGG7fwQCrNZxT8nvF3DdYExhtUvRUZk0tkNxgLM8pMDNeT_xeI9b3WEwqW17usvHyywh6D7zTkQS6bAKtg8mJzKA.jpg?r=7be",
+  },
+  {
+    title: "Ranking of Kings",
+    image: "https://cdn.mos.cms.futurecdn.net/zrE7G4wLEu7gqJm2eWT2rR.jpg",
+  },
+  {
+    title: "Kaguya-sama: Love Is War ",
+    image:
+      "https://jw-webmagazine.com/wp-content/uploads/2022/06/Kaguya-Sama-Love-Is-War-266x200.jpg",
+  },
+  {
+    title: "Rust-Eater Bisco",
+    image:
+      "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/sabikui-bisco-akaboshi.jpg",
+  },
+  {
+    title: "World’s End Harem",
+    image:
+      "https://i.ytimg.com/vi/Jr3UJoIKGJM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgXihWMA8=&rs=AOn4CLA25UTE1eeqclTJ0iVU4WWzKgBpsQ",
+  },
+  {
+    title: " Attack on Titan",
+    image:
+      "https://jw-webmagazine.com/wp-content/uploads/2020/09/Attack-on-Titan-manga-300x150.jpg",
+  },
+  {
+    title: " Spy × Family",
+    image:
+      "https://www.nme.com/wp-content/uploads/2022/08/spyxfamily-part-2@2000x1270.jpg",
+  },
+
+  {
+    title: "Shikimori’s Not Just a Cutie",
+    image:
+      "https://m.media-amazon.com/images/M/MV5BYWFiMjgyY2QtZDJmMi00ZmQyLWEyMGMtYzJiMzQzZmU4OGM0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+  },
+  {
+    title: "Chainsaw Man",
+    image:
+      "https://beebom.com/wp-content/uploads/2022/10/Where-to-Watch-Chainsaw-Man-Anime.jpg?w=730&h=487&crop=1&quality=75",
+  },
+  {
+    title: "Bleach",
+    image:
+      "https://jw-webmagazine.com/wp-content/uploads/2021/12/Bleach-267x200.jpg",
+  },
+];
