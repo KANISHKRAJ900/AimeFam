@@ -396,7 +396,7 @@ export const anime = [
   {
     title: "The Reincarnation of the Strongest Exorcist In Another World ",
     image:
-      "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25253-1240464715.1664338932.jpg",
+      "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2022/09/The-Reincarnation-of-the-Strongest-Exorcist-in-Another-World-1st-visual-1.jpg?resize=1920%2C1752&ssl=1",
     fall: "jan",
     desc: "Haruyoshi, who is the strongest onmyōji (diviner) in his world. He's betrayed by his friends and, on the verge of death, he wishes to be happy in his next life. He then attempts a secret reincarnation spell. The spell is a success and he is reincarnated, but somehow it's in another world. He is reborn into a distinguished family of wizards, but is judged to have no magical ability. He soon realizes however that the magic in this world is nothing compared to his old onmyō arts, and he declares that he doesn't need magic. He thus begins his easy life in another world with his onmyō arts and a multitude of yōkai creatures who follow him. (from manga)",
   },

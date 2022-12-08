@@ -3,8 +3,11 @@ import React from "react";
 const Header = () => {
   return (
     <>
-      <header aria-label="Page Header" className="bg-gray-50">
-        <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
+      <header
+        aria-label="Page Header"
+        className="bg-gray-50 fixed w-full z-[9999]"
+      >
+        <div className="mx-auto   px-4 py-8 sm:px-6 lg:px-8">
           <div className="flex items-center sm:justify-between sm:gap-4">
             <button className="group shrink-0 items-center rounded-lg transition text-5xl hidden lg:block">
               Anime <span className="text-sm">Season</span>
@@ -12,18 +15,19 @@ const Header = () => {
             <div className="flex flex-1 items-center justify-between gap-8 sm:justify-end">
               <div className="flex gap-4">
                 <a
-                  href="#"
+                  href="https://t.me/elite_kanishkraj"
+                  target="_blank"
                   className="block shrink-0 rounded-lg bg-white p-2.5 text-gray-600 shadow-sm hover:text-gray-700"
                 >
-                  <span className="sr-only">Academy</span>
-                  <img className="w-5" src="/linkedin.png" alt="linkedin" />
+                  {/* <span className="sr-only">Academy</span> */}
+                  <img className="w-5" src="/telegram.png" alt="telegram" />
                 </a>
 
                 <a
                   href="#"
                   className="block shrink-0 rounded-lg bg-white p-2.5 text-gray-600 shadow-sm hover:text-gray-700"
                 >
-                  <span className="sr-only">Academy</span>
+                  {/* <span className="sr-only">Academy</span> */}
                   <img className="w-5" src="/twitter.png" alt="twitter" />
                 </a>
 
@@ -31,7 +35,7 @@ const Header = () => {
                   href="#"
                   className="block shrink-0 rounded-lg bg-white p-2.5 text-gray-600 shadow-sm hover:text-gray-700"
                 >
-                  <span className="sr-only">Notifications</span>
+                  {/* <span className="sr-only">Notifications</span> */}
                   <img className="w-5" src="/instagram.png" alt="instagram" />
                 </a>
               </div>
