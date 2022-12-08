@@ -5,7 +5,7 @@ const Header = () => {
     <>
       <header
         aria-label="Page Header"
-        className="bg-gray-50 fixed w-full z-[9999]"
+        className="bg-gray-50 fixed w-full z-[999999]"
       >
         <div className="mx-auto   px-4 py-8 sm:px-6 lg:px-8">
           <div className="flex items-center sm:justify-between sm:gap-4">
