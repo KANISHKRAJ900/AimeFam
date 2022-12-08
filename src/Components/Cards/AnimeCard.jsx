@@ -49,13 +49,7 @@ function AnimeCard() {
 
                   <div className="sm:flex   sm:items-end sm:justify-end">
                     <span className="lg:block  bg-yellow-300 mx-2 px-5 py-2 align-middle text-center text-xs font-bold  rounded-xl uppercase text-gray-900 transition hover:bg-yellow-400">
-                      Fantasy
-                    </span>
-                    <span className="lg:block  bg-yellow-300 px-5 py-2 align-middle text-center text-xs font-bold  rounded-xl uppercase text-gray-900 transition hover:bg-yellow-400">
-                      Fantasy
-                    </span>
-                    <span className="lg:block  bg-yellow-300 mx-2 px-5 py-2 align-middle text-center text-xs font-bold  rounded-xl uppercase text-gray-900 transition hover:bg-yellow-400">
-                      Action
+                      Tv
                     </span>
                   </div>
                 </div>

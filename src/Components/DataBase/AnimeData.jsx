@@ -1,6 +1,6 @@
 export const anime = [
   {
-    title: "The Ice Guy and His Cool Female Colleague (TV)",
+    title: "The Ice Guy and His Cool Female Colleague ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25872-241536104.1667744115.jpg",
     fall: "jan-04",
@@ -8,7 +8,7 @@ export const anime = [
   },
 
   {
-    title: "The Magical Revolution of the Reincarnated Princess (TV)",
+    title: "The Magical Revolution of the Reincarnated Princess ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26209-3366774829.1665422367.jpg",
     fall: "jan-04",
@@ -16,23 +16,23 @@ export const anime = [
   },
 
   {
-    title: "Bungo Stray Dogs (TV 4)",
+    title: "Bungo Stray Dogs ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24953-2917628721.1664889712.jpg",
     fall: "jan-04",
-    desc: "Bungo Stray Dogs (TV 4)",
+    desc: "Bungo Stray Dogs ",
   },
 
   {
-    title: "Tsurune: The Linking Shot (TV)",
+    title: "Tsurune: The Linking Shot ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26233-2178930604.1669373237.jpg",
     fall: "jan-04",
-    desc: "Tsurune: The Linking Shot (TV)",
+    desc: "Tsurune: The Linking Shot ",
   },
 
   {
-    title: "Tomo-chan Is a Girl! (TV)",
+    title: "Tomo-chan Is a Girl! ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26002-2608888545.1669562418.jpg",
     fall: "jan-04",
@@ -40,7 +40,7 @@ export const anime = [
   },
 
   {
-    title: "Revenger (TV)",
+    title: "Revenger ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26399-470364273.1664569766.jpg",
     fall: "jan-05",
@@ -56,7 +56,7 @@ export const anime = [
   },
 
   {
-    title: "ONIMAI: I'm Now Your Sister! (TV)",
+    title: " I'm Now Your Sister! ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25571-3687729118.1670208510.jpg",
     fall: "jan-05",
@@ -64,7 +64,7 @@ export const anime = [
   },
 
   {
-    title: "The Iceblade Sorcerer Shall Rule the World (TV)",
+    title: "The Iceblade Sorcerer Shall Rule the World ",
     image:
       "https://static.next-episode.net/tv-shows-images/huge/the-iceblade-sorcerer-shall-rule-the-world.jpg",
     fall: "jan-05",
@@ -72,7 +72,7 @@ export const anime = [
   },
 
   {
-    title: "Giant Beasts of Ars (TV)",
+    title: "Giant Beasts of Ars ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26396-2818319349.1664279339.jpg",
     fall: "jan-06",
@@ -80,7 +80,7 @@ export const anime = [
   },
 
   {
-    title: "My Life as Inukai-san's Dog (TV)",
+    title: "My Life as Inukai-san's Dog ",
     image:
       "https://static.madinfinite.com/images/big/14/my-life-as-inukai-san-s-dog-gets-new-trailer-that-reveals-it-will-premiere-in-january-013181.jpg",
     fall: "jan-06",
@@ -88,7 +88,7 @@ export const anime = [
   },
 
   {
-    title: "Farming Life in Another World (TV)",
+    title: "Farming Life in Another World ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25479-2659978852.1661613093.jpg",
     fall: "jan-06",
@@ -96,7 +96,7 @@ export const anime = [
   },
 
   {
-    title: "The Legend of Heroes: Trails of Cold Steel - Northern War (TV)",
+    title: "The Legend of Heroes: Trails of Cold Steel - Northern War ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25263-4041826194.1663822728.jpg",
     fall: "jan-06",
@@ -104,7 +104,7 @@ export const anime = [
   },
 
   {
-    title: "Sugar Apple Fairy Tale (TV)",
+    title: "Sugar Apple Fairy Tale ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24810-3170662269.1668763569.jpg",
     fall: "jan-06",
@@ -112,16 +112,16 @@ export const anime = [
   },
 
   {
-    title: "Nijiyon Animation (TV)",
+    title: "Nijiyon Animation ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26353-1695575178.1669304752.jpg",
     fall: "jan-06",
-    desc: "Nijiyon Animation (TV)",
+    desc: "Nijiyon Animation ",
   },
 
   {
     title:
-      "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte (TV)",
+      "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25086-837478721.1657928658.jpg",
     fall: "jan-06",
@@ -129,7 +129,7 @@ export const anime = [
   },
 
   {
-    title: "UniteUp! (TV)",
+    title: "UniteUp! ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26381-817103459.1667636158.jpg",
     fall: "jan-07",
@@ -137,7 +137,7 @@ export const anime = [
   },
 
   {
-    title: "The Angel Next Door Spoils Me Rotten (TV)",
+    title: "The Angel Next Door Spoils Me Rotten ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25110-3730961748.1664889823.jpg",
     fall: "jan-07",
@@ -145,7 +145,7 @@ export const anime = [
   },
 
   {
-    title: "Saving 80,000 Gold in Another World for My Retirement (TV)",
+    title: "Saving 80,000 Gold in Another World for My Retirement ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26137-1787037610.1669367364.jpg",
     fall: "jan-07",
@@ -153,16 +153,15 @@ export const anime = [
   },
 
   {
-    title: "Don't Toy with Me, Miss Nagatoro 2nd Attack (TV 2)",
+    title: "Don't Toy with Me, Miss Nagatoro 2nd Attack ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24896-1463936705.1666351119.jpg",
     fall: "jan-07",
-    desc: "Don't Toy with Me, Miss Nagatoro 2nd Attack (TV 2)",
+    desc: "Don't Toy with Me, Miss Nagatoro 2nd Attack ",
   },
 
   {
-    title:
-      "Chillin' in My 30s after Getting Fired from the Demon King's Army (TV)",
+    title: "Chillin' in My 30s after Getting Fired from the Demon King's Army ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26097-3364789346.1668768549.jpg",
     fall: "jan-07",
@@ -170,7 +169,7 @@ export const anime = [
   },
 
   {
-    title: "Trigun Stampede (TV)",
+    title: "Trigun Stampede ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25847-1262470028.1665815756.jpg",
     fall: "jan-07",
@@ -178,7 +177,7 @@ export const anime = [
   },
 
   {
-    title: "The tale of outcasts (TV)",
+    title: "The tale of outcasts ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25951-1041854494.1665427166.jpg",
     fall: "jan-08",
@@ -186,23 +185,23 @@ export const anime = [
   },
 
   {
-    title: "By the Grace of the Gods (TV 2)",
+    title: "By the Grace of the Gods ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24417-825857130.1669367744.jpg",
     fall: "jan-08",
-    desc: "By the Grace of the Gods (TV 2)",
+    desc: "By the Grace of the Gods ",
   },
 
   {
-    title: "In/Spectre (TV 2)",
+    title: "In/Spectre ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24950-916405347.1646361356.jpg",
     fall: "jan-08",
-    desc: "In/Spectre (TV 2)",
+    desc: "In/Spectre ",
   },
 
   {
-    title: "High Card (TV)",
+    title: "High Card ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25414-2853631590.1668915856.jpg",
     fall: "jan-09",
@@ -210,7 +209,7 @@ export const anime = [
   },
 
   {
-    title: "Malevolent Spirits: Mononogatari (TV)",
+    title: "Malevolent Spirits: Mononogatari ",
     image: "https://pbs.twimg.com/media/FS3pS4XXwAAYHe2.jpg",
     fall: "jan-09",
     desc: "When spirits cross over into the human world, they can possess old objects and gain a physical form: a tsukumogami. Tsukumogami can be gentle, violent, or somewhere in-between, so the Saenome clan peacefully helps send them back to the spirit world to avoid destruction. Kunato Hyouma is a member of the clan, but is...less than peaceful, since he holds a grudge from when a tsukumogami robbed him of something important. Afraid that Hyouma's brash anger in dealing with these spirits will lead to supernatural catastrophes, Hyouma's grandfather sends him to live in Kyoto with Nagatsuki Botan, an unusual young woman who actually lives with tsukumogami like family. (from manga)",
@@ -218,7 +217,7 @@ export const anime = [
 
   {
     title:
-      "Reborn to Master the Blade: From Hero-King to Extraordinary Squire (TV)",
+      "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25006-3775307157.1666353662.jpg",
     fall: "jan-09",
@@ -226,15 +225,15 @@ export const anime = [
   },
 
   {
-    title: "Vinland Saga (TV 2)",
+    title: "Vinland Saga ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24508-2448425232.1654743307.jpg",
     fall: "jan-09",
-    desc: "Vinland Saga (TV 2)",
+    desc: "Vinland Saga ",
   },
 
   {
-    title: "Ayakashi Triangle (TV)",
+    title: "Ayakashi Triangle ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25065-2222033666.1662085567.jpg",
     fall: "jan-09",
@@ -242,7 +241,7 @@ export const anime = [
   },
 
   {
-    title: "Apparently, Disillusioned Adventurers Will Save the World (TV)",
+    title: "Apparently, Disillusioned Adventurers Will Save the World ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24632-2220331747.1669887251.jpg",
     fall: "jan-10",
@@ -250,7 +249,7 @@ export const anime = [
   },
 
   {
-    title: "Kaina of the Great Snow Sea (TV)",
+    title: "Kaina of the Great Snow Sea ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25159-2382385664.1658316132.jpg",
     fall: "jan-11",
@@ -259,15 +258,15 @@ export const anime = [
 
   {
     title:
-      "The Fruit of Evolution: Before I Knew It My Life Had It Made Season 2 (TV)",
+      "The Fruit of Evolution: Before I Knew It My Life Had It Made Season 2 ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25485-1404806799.1648798487.jpg",
     fall: "jan-13",
-    desc: "The Fruit of Evolution: Before I Knew It My Life Had It Made Season 2 (TV)",
+    desc: "The Fruit of Evolution: Before I Knew It My Life Had It Made Season 2 ",
   },
 
   {
-    title: "The Fire Hunter (TV)",
+    title: "The Fire Hunter ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25262-1408181592.1663822558.jpg",
     fall: "jan-14",
@@ -275,63 +274,63 @@ export const anime = [
   },
 
   {
-    title: "Cardfight!! Vanguard will+Dress (TV 2)",
+    title: "Cardfight!! Vanguard will+Dress ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25839-2386358198.1670306696.jpg",
     fall: "jan-14",
-    desc: "Cardfight!! Vanguard will+Dress (TV 2)",
+    desc: "Cardfight!! Vanguard will+Dress ",
   },
 
   {
-    title: "FLAGLIA (TV)",
+    title: "FLAGLIA ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26493-1120780761.1666692439.jpg",
     fall: "jan-16",
-    desc: "FLAGLIA (TV)",
+    desc: "FLAGLIA ",
   },
 
   {
-    title: "Record of Ragnarok II (TV 2)",
+    title: "Record of Ragnarok II ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24643-2816849859.1669304858.jpg",
     fall: "jan-26",
-    desc: "Record of Ragnarok II (TV 2)",
+    desc: "Record of Ragnarok II ",
   },
 
   {
-    title: "Sorcerous Stabber Orphen -Chaos in Urbanrama- (TV)",
+    title: "Sorcerous Stabber Orphen -Chaos in Urbanrama- ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26393-2908768283.1664250229.jpg",
     fall: "jan",
-    desc: "Sorcerous Stabber Orphen -Chaos in Urbanrama- (TV)",
+    desc: "Sorcerous Stabber Orphen -Chaos in Urbanrama- ",
   },
 
   {
-    title: "NieR:Automata Ver 1.1a (TV)",
+    title: "Automata Ver 1.1a ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25372-2181353746.1669362384.jpg",
     fall: "jan",
-    desc: "NieR:Automata Ver 1.1a (TV)",
+    desc: "NieR:Automata Ver 1.1a ",
   },
 
   {
-    title: "KJ File (TV 2)",
+    title: "KJ File ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26402-1461542383.1664795449.jpg",
     fall: "jan",
-    desc: "KJ File (TV 2)",
+    desc: "KJ File ",
   },
 
   {
-    title: "The Misfit of Demon King Academy II (TV 2)",
+    title: "The Misfit of Demon King Academy II ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24105-3954134738.1615081583.jpg",
     fall: "jan",
-    desc: "The Misfit of Demon King Academy II (TV 2)",
+    desc: "The Misfit of Demon King Academy II ",
   },
 
   {
-    title: "Handyman Saitō in Another World (TV)",
+    title: "Handyman Saitō in Another World ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25144-1412534184.1658539721.jpg",
     fall: "jan",
@@ -339,16 +338,15 @@ export const anime = [
   },
 
   {
-    title:
-      "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. (TV 2)",
+    title: " I Don't Want to Get Hurt, so I'll Max Out My Defense. ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A23894-2045727521.1663685652.jpg",
     fall: "jan",
-    desc: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. (TV 2)",
+    desc: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. ",
   },
 
   {
-    title: "Spy Classroom (TV)",
+    title: "Spy Classroom ",
     image:
       "https://thenerdstash.com/wp-content/uploads/2022/07/spy-classroom-anime-cover-image.jpg",
     fall: "jan",
@@ -356,7 +354,7 @@ export const anime = [
   },
 
   {
-    title: "Kubo Won't Let Me Be Invisible (TV)",
+    title: "Kubo Won't Let Me Be Invisible ",
     image:
       "https://animecorner.me/wp-content/uploads/2022/07/kubo-invisible-first-anime-visual.jpg",
     fall: "jan",
@@ -364,31 +362,31 @@ export const anime = [
   },
 
   {
-    title: "Buddy Daddies (TV)",
+    title: "Buddy Daddies ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26480-2913267894.1668871071.jpg",
     fall: "jan",
-    desc: "Buddy Daddies (TV)",
+    desc: "Buddy Daddies ",
   },
 
   {
-    title: "Technoroid Overmind (TV)",
+    title: "Technoroid Overmind ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24952-1350899842.1667055172.jpg",
     fall: "jan",
-    desc: "Technoroid Overmind (TV)",
+    desc: "Technoroid Overmind ",
   },
 
   {
-    title: "Show Time! 2 (TV 2)",
+    title: "Show Time! 2 ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24983-2644411444.1664988968.jpg",
     fall: "jan",
-    desc: "Show Time! 2 (TV 2)",
+    desc: "Show Time! 2 ",
   },
 
   {
-    title: "Campfire Cooking in Another World with My Absurd Skill (TV)",
+    title: "Campfire Cooking in Another World with My Absurd Skill ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26519-2880709250.1667023022.jpg",
     fall: "jan",
@@ -396,7 +394,7 @@ export const anime = [
   },
 
   {
-    title: "The Reincarnation of the Strongest Exorcist In Another World (TV)",
+    title: "The Reincarnation of the Strongest Exorcist In Another World ",
     image:
       "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25253-1240464715.1664338932.jpg",
     fall: "jan",
@@ -409,61 +407,97 @@ export const anime22 = [
     title: "Demon Slayer",
     image:
       "https://jw-webmagazine.com/wp-content/uploads/2020/08/Anime-Demon-Slayer-Kimetsu-no-Yaiba-300x172.png",
+    source: "Manga",
+    broadcast: "Tv",
+    Genres: "Historical",
   },
   {
     title: "JoJo’s Bizarre Adventure",
     image:
       "https://jw-webmagazine.com/wp-content/uploads/2021/08/JoJos-Bizarre-Adventure-300x151.jpg",
+    source: "Manga",
+    broadcast: "Tv",
+    Genres: "Vampire",
   },
 
   {
     title: " The Orbital Children",
     image:
       "https://occ-0-34-784.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABezvAhrTiLyeXqV7Bvi6Z6DasWuw7rpaWGG7fwQCrNZxT8nvF3DdYExhtUvRUZk0tkNxgLM8pMDNeT_xeI9b3WEwqW17usvHyywh6D7zTkQS6bAKtg8mJzKA.jpg?r=7be",
+    source: "Web manga ",
+    broadcast: "Tv",
+    Genres: "Adventure",
   },
   {
     title: "Ranking of Kings",
     image: "https://cdn.mos.cms.futurecdn.net/zrE7G4wLEu7gqJm2eWT2rR.jpg",
+    source: "Web manga",
+    broadcast: "Tv",
+    Genres: "Adventure",
   },
   {
-    title: "Kaguya-sama: Love Is War ",
+    title: " Love Is War ",
     image:
       "https://jw-webmagazine.com/wp-content/uploads/2022/06/Kaguya-Sama-Love-Is-War-266x200.jpg",
+    broadcast: "Tv",
+    source: "Manga",
+    Genres: "School,Romantic",
   },
   {
     title: "Rust-Eater Bisco",
     image:
       "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/sabikui-bisco-akaboshi.jpg",
+    source: "Manga",
+    broadcast: "Light Novel",
+    Genres: " Action",
   },
   {
     title: "World’s End Harem",
     image:
       "https://i.ytimg.com/vi/Jr3UJoIKGJM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgXihWMA8=&rs=AOn4CLA25UTE1eeqclTJ0iVU4WWzKgBpsQ",
+    source: " Light novel ",
+    broadcast: "Tv",
+    Genres: "Drama,Fantasy",
   },
   {
     title: " Attack on Titan",
     image:
       "https://jw-webmagazine.com/wp-content/uploads/2020/09/Attack-on-Titan-manga-300x150.jpg",
+    source: "Manga",
+    broadcast: "Tv",
+    Genres: "Action,Suspense",
   },
   {
     title: " Spy × Family",
     image:
       "https://www.nme.com/wp-content/uploads/2022/08/spyxfamily-part-2@2000x1270.jpg",
+    source: "MAnga",
+    broadcast: "ONA",
+    Genres: "Suspense Comedy, Gourmet",
   },
 
   {
     title: "Shikimori’s Not Just a Cutie",
     image:
       "https://m.media-amazon.com/images/M/MV5BYWFiMjgyY2QtZDJmMi00ZmQyLWEyMGMtYzJiMzQzZmU4OGM0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    broadcast: "Tv",
+    source: "Web manga",
+    Genres: "Comedy, Romance",
   },
   {
     title: "Chainsaw Man",
     image:
       "https://beebom.com/wp-content/uploads/2022/10/Where-to-Watch-Chainsaw-Man-Anime.jpg?w=730&h=487&crop=1&quality=75",
+    broadcast: "Tv",
+    source: "Manga",
+    Genres: "Action,Fantasy",
   },
   {
     title: "Bleach",
     image:
       "https://jw-webmagazine.com/wp-content/uploads/2021/12/Bleach-267x200.jpg",
+    broadcast: "Movie",
+    source: "Manga",
+    Genres: "Action, Adventure",
   },
 ];
